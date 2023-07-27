@@ -1,6 +1,7 @@
 # Health_Insurance_Cross_Sell_Prediciotn
 
-![download](https://github.com/azizdafi/Health_Insurance_Cross_Sell_Prediction./assets/17454061/f1ba390c-ddf4-4932-a47d-2ea4fa903a25)
+![download (1)](https://github.com/azizdafi/Health_Insurance_Cross_Sell_Prediction./assets/17454061/ff67a98a-88c3-4207-8ab5-9058c0c7b7ea)
+
 
 
 Our client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
